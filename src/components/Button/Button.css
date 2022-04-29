@@ -1,0 +1,8 @@
+.button__container {
+    padding: 4px;
+    background-color: #fff;
+    border: 1px solid #103394;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 40px;
+}
